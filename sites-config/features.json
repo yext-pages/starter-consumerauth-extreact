@@ -1,0 +1,12 @@
+{
+  "features": [
+    {
+      "name": "search",
+      "templateType": "JS",
+      "staticPage": {
+        "plugin": {}
+      }
+    }
+  ],
+  "streams": []
+}

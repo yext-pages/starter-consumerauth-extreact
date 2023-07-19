@@ -1,0 +1,18 @@
+{
+	"__": {
+		"name": "search",
+		"staticPage": {
+			"plugin": {}
+		},
+		"templateType": "JS"
+	},
+	"businessId": 4045023,
+	"key": "0:search:knowledgeGraph:0:en",
+	"locale": "en",
+	"meta": {
+		"locale": "en"
+	},
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": ""
+}

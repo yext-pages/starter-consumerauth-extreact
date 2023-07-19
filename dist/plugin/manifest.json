@@ -1,0 +1,55 @@
+{
+  "bundlePaths": {
+    "search": "assets/server/search.5b97ad0c.js"
+  },
+  "projectFilepaths": {
+    "templatesRoot": "src/templates",
+    "distRoot": "dist",
+    "hydrationBundleOutputRoot": "dist/hydration_templates",
+    "serverBundleOutputRoot": "dist/assets/server"
+  },
+  "bundlerManifest": {
+    "node_modules/@yext/pages/dist/vite-plugin/build/buildStart/rendering/renderer.js": {
+      "file": "assets/renderer/templateRenderer.js",
+      "src": "node_modules/@yext/pages/dist/vite-plugin/build/buildStart/rendering/renderer.js",
+      "isEntry": true,
+      "imports": [
+        "_index-990c982d.js"
+      ]
+    },
+    "dist/hydration_templates/search.tsx": {
+      "file": "assets/hydrate/search.24147e85.js",
+      "src": "dist/hydration_templates/search.tsx",
+      "isEntry": true,
+      "imports": [
+        "_search-802c2fe2.js",
+        "_index-990c982d.js"
+      ]
+    },
+    "src/templates/search.tsx": {
+      "file": "assets/server/search.5b97ad0c.js",
+      "src": "src/templates/search.tsx",
+      "isEntry": true,
+      "imports": [
+        "_search-802c2fe2.js",
+        "_index-990c982d.js"
+      ]
+    },
+    "_index-990c982d.js": {
+      "file": "assets/static/index-990c982d.js"
+    },
+    "_search-802c2fe2.js": {
+      "file": "assets/static/search-802c2fe2.js",
+      "imports": [
+        "_index-990c982d.js"
+      ],
+      "css": [
+        "assets/static/search-d9c66e3b.css"
+      ]
+    },
+    "search.css": {
+      "file": "assets/static/search-d9c66e3b.css",
+      "src": "search.css"
+    }
+  }
+}
