@@ -1,6 +1,6 @@
 {
   "bundlePaths": {
-    "search": "assets/server/search.5b97ad0c.js"
+    "search": "assets/server/search.c170ef52.js"
   },
   "projectFilepaths": {
     "templatesRoot": "src/templates",
@@ -14,34 +14,34 @@
       "src": "node_modules/@yext/pages/dist/vite-plugin/build/buildStart/rendering/renderer.js",
       "isEntry": true,
       "imports": [
-        "_index-990c982d.js"
+        "_index-8bcadd67.js"
       ]
     },
     "dist/hydration_templates/search.tsx": {
-      "file": "assets/hydrate/search.24147e85.js",
+      "file": "assets/hydrate/search.e4a58be0.js",
       "src": "dist/hydration_templates/search.tsx",
       "isEntry": true,
       "imports": [
-        "_search-802c2fe2.js",
-        "_index-990c982d.js"
+        "_search-3bb61aa2.js",
+        "_index-8bcadd67.js"
       ]
     },
     "src/templates/search.tsx": {
-      "file": "assets/server/search.5b97ad0c.js",
+      "file": "assets/server/search.c170ef52.js",
       "src": "src/templates/search.tsx",
       "isEntry": true,
       "imports": [
-        "_search-802c2fe2.js",
-        "_index-990c982d.js"
+        "_search-3bb61aa2.js",
+        "_index-8bcadd67.js"
       ]
     },
-    "_index-990c982d.js": {
-      "file": "assets/static/index-990c982d.js"
+    "_index-8bcadd67.js": {
+      "file": "assets/static/index-8bcadd67.js"
     },
-    "_search-802c2fe2.js": {
-      "file": "assets/static/search-802c2fe2.js",
+    "_search-3bb61aa2.js": {
+      "file": "assets/static/search-3bb61aa2.js",
       "imports": [
-        "_index-990c982d.js"
+        "_index-8bcadd67.js"
       ],
       "css": [
         "assets/static/search-d9c66e3b.css"
