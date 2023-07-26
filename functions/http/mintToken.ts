@@ -4,7 +4,7 @@ const kid = YEXT_PUBLIC_SIGNING_KEY_ID;
 const key = YEXT_PUBLIC_SIGNING_KEY;
 const externalIdentities = [
   {
-    source: "google-drive",
+    source: "google-drive", // Update based on your selected source
     identities: ["testuser1@test.com", "admin"],
   }
 ];
