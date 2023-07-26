@@ -1,9 +1,7 @@
 import { UniversalLimit } from "@yext/search-headless-react";
 
 //Replace with Your Yext Business ID
-export const businessId = 4045023;
-//Replace with Your Search Experience API Key
-// export const token = window?.YEXT_TOKENS.yextauthsigningkey.token;
+export const businessId = "[YOUR_BUSINESS_ID]"; 
 //Replace with Your Search Experience experience key
 export const experienceKey = "consumer-auth-search";
 //Replace with Your Search Experience locale
